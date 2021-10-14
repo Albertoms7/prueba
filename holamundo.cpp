@@ -2,4 +2,5 @@
 using namespace std;
 int main () {
     cout <<"hoa mundo"<< endl;
+    cout << "prueba";
 }
